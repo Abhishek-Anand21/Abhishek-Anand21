@@ -1,6 +1,7 @@
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A Tech Enthusiast 💻!</h3>
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-anand21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-anand21" /> </p>
 
