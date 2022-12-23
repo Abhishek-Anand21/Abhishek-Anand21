@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-anand21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-anand21" /> </p>
 
-- 💬 Ask me about **Coding,Development,CP**
+- 💬 Ask me about **Coding, Development, CP**
 
 - 📫 How to reach me **abhishekanand0210@gmail.com**
 
-- ⚡ Fun fact **Universe Expanding EveryDay So as the Ideas 💡 !**
+- ⚡ Fun fact **Problem Solving is FUN 😉 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
