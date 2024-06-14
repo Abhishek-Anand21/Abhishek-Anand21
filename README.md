@@ -8,11 +8,12 @@
 
 - ⚡ Fun fact **Universe Expanding EveryDay So as the Ideas 💡 !**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-anand-b07b22225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-anand-b07b22225" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishekanand021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekanand021" height="30" width="40" /></a>
-</p>
+## 💫 About Me:
+Hello 👋<br>As a recent Computer Science graduate with a passion for coding and development, I'm excited to bring my academic knowledge and hands-on experience to new and exciting projects. Throughout my studies, I immersed myself in various programming languages and frameworks, and now I'm ready to apply this expertise in the real world. I thrive on solving tricky problems with smart code and crafting user-friendly apps that bring ideas to life. My natural curiosity drives me to stay updated on the latest tech trends, and I've completed numerous personal projects that showcase my skills and dedication. Now, I'm eager to collaborate with dynamic teams and contribute to innovative projects in the tech industry. I'm always up for a challenge and actively seeking opportunities to learn, grow, and make a significant impact. Let's connect and create something amazing together!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-anand-b07b22225) 
 
 
 ## 💻 Tech Stack:
