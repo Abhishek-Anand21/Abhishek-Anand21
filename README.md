@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A Tech Enthusiast 👨🏻‍💻 !</h3>
 
-- 💬 Ask me about **Coding,Development,CP**
+- 💬 Ask me about **Coding, Development, CP**
 
-- 📫 How to reach me **abhishekanand0210@gmail.com**
+- 📫 How to reach me **✉️ abhishekanand0210@gmail.com**
 
-- ⚡ Fun fact **Universe Expanding EveryDay So as the Ideas 💡 !**
+- ⚡ Fun fact **Universe Expanding Everyday So as the Ideas 💡 !**
 
 ## 💫 About Me:
-Hello 👋<br>As a recent Computer Science graduate with a passion for coding and development, I'm excited to bring my academic knowledge and hands-on experience to new and exciting projects. Throughout my studies, I immersed myself in various programming languages and frameworks, and now I'm ready to apply this expertise in the real world. I thrive on solving tricky problems with smart code and crafting user-friendly apps that bring ideas to life. My natural curiosity drives me to stay updated on the latest tech trends, and I've completed numerous personal projects that showcase my skills and dedication. Now, I'm eager to collaborate with dynamic teams and contribute to innovative projects in the tech industry. I'm always up for a challenge and actively seeking opportunities to learn, grow, and make a significant impact. Let's connect and create something amazing together!
+Hello 👋,<br>As a recent Computer Science graduate with a passion for coding and development, I'm excited to bring my academic knowledge and hands-on experience to new and exciting projects. Throughout my studies, I immersed myself in various programming languages and frameworks, and now I'm ready to apply this expertise in the real world. I thrive on solving tricky problems with smart code and crafting user-friendly apps that bring ideas to life. My natural curiosity drives me to stay updated on the latest tech trends, and I've completed numerous personal projects that showcase my skills and dedication. Now, I'm eager to collaborate with dynamic teams and contribute to innovative projects in the tech industry. I'm always up for a challenge and actively seeking opportunities to learn, grow, and make a significant impact. Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
