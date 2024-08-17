@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
-<h3 align="center">A Tech Enthusiast 👨🏻‍💻 !</h3>
+<h3 align="center">Software Engineer 👨🏻‍💻 !</h3>
 
 - 💬 Ask me about **Coding, Development, CP**
 
@@ -9,9 +9,8 @@
 - ⚡ Fun fact **Universe Expanding Everyday So as the Ideas 💡 !**
 
 ## 💫 About Me:
-Hello 👋,<br>As a recent Computer Science graduate with a passion for coding and development, I'm excited to bring my academic knowledge and hands-on experience to new and exciting projects. Throughout my studies, I immersed myself in various programming languages and frameworks, and now I'm ready to apply this expertise in the real world. I thrive on solving tricky problems with smart code and crafting user-friendly apps that bring ideas to life. My natural curiosity drives me to stay updated on the latest tech trends, and I've completed numerous personal projects that showcase my skills and dedication. Now, I'm eager to collaborate with dynamic teams and contribute to innovative projects in the tech industry. I'm always up for a challenge and actively seeking opportunities to learn, grow, and make a significant impact. Let's connect and create something amazing together!
-
-
+👋 Hello! 
+I’m an enthusiastic Software Engineer with a focus on building scalable and high-performance applications using FastAPI and Django. My expertise lies in optimizing system performance through asynchronous processing and backend automation, alongside implementing robust security measures to ensure reliable and secure applications. I’m well-versed in a range of programming languages, including C++, Java, JavaScript, Python, and TypeScript, and I work with a diverse tech stack that features NextJs, ReactJs, AWS, and more. My passion extends to web development, where I design user-centric applications, and database design, where I create efficient, scalable solutions. Continuously staying ahead of tech trends and committed to learning, I am excited to connect with forward-thinking teams and tackle innovative projects. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-anand-b07b22225) 
 
