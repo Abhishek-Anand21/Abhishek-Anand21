@@ -9,7 +9,7 @@
 - ⚡ Fun fact **Universe Expanding Everyday So as the Ideas 💡 !**
 
 ## 💫 About Me:
-👋 Hello! 
+👋 Hello! <br>
 I’m an enthusiastic Software Engineer with a focus on building scalable and high-performance applications using FastAPI and Django. My expertise lies in optimizing system performance through asynchronous processing and backend automation, alongside implementing robust security measures to ensure reliable and secure applications. I’m well-versed in a range of programming languages, including C++, Java, JavaScript, Python, and TypeScript, and I work with a diverse tech stack that features NextJs, ReactJs, AWS, and more. My passion extends to web development, where I design user-centric applications, and database design, where I create efficient, scalable solutions. Continuously staying ahead of tech trends and committed to learning, I am excited to connect with forward-thinking teams and tackle innovative projects. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-anand-b07b22225) 
